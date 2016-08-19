@@ -41,8 +41,9 @@ bot: 2, 3, 4, 5, 6, 7, 8, 9, 10
 you: conte de 1 até 2
 bot: 1, 2
 ```
+3 - Crie um exemplo onde você demonstre o completo entendimento do uso de Wildcards.
 
-3 - Nunca deve responder "I have no answer for that" e sim "Não entendi, pode falar de outra forma?", por exemplo:
+4 - Seu bot nunca deve responder "I have no answer for that" e sim "Não entendi, pode falar de outra forma?", por exemplo:
 
 ```
 you: Se jaca fura o pneu da minha bicileta, o azul cai no chão?
@@ -51,7 +52,7 @@ bot: Não entendi, pode falar de outra forma?
 
 ## Tutorial AIML
 
-Se precisar, o próprio Pandorabots tem um tutorial muito bom de AIML: [https://playground.pandorabots.com/en/tutorial/](https://playground.pandorabots.com/en/tutorial/)
+Se necessário, o próprio Pandorabots tem um tutorial muito bom de AIML: [https://playground.pandorabots.com/en/tutorial/](https://playground.pandorabots.com/en/tutorial/)
 
 ## Avaliação
 
